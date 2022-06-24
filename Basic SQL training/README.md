@@ -6,9 +6,9 @@
 Целью работы является написание запросов на языке SQL, удовлетворяющих условию конкретной задачи.
 
 ### О базе данных
-Графическая **схема базы данных** представлена в файле [db_structure.png](https://user-images.githubusercontent.com/93519923/151874413-bb503e35-bfdc-4192-9bb0-fbd6759d33fc.png).<br>
-Описание данных каждой из таблиц нахдится в файле [db_info.txt](https://github.com/smilingthrone13/basic_sql_training/blob/main/db_info.txt).
+Графическая **схема базы данных** представлена в файле [db_structure.png](https://raw.githubusercontent.com/smilingthrone13/praktikum_projects/main/Basic%20SQL%20training/db_structure.png).<br>
+Описание данных каждой из таблиц нахдится в файле [db_info.txt]([https://github.com/smilingthrone13/basic_sql_training/blob/main/db_info.txt](https://github.com/smilingthrone13/praktikum_projects/blob/main/Basic%20SQL%20training/db_info.txt)).
 
 ### Задачи
-В файле [requests_sql.txt](https://github.com/smilingthrone13/basic_sql_training/blob/main/requests_sql.txt) описаны задачи и для каждой из них приведен код
+В файле [requests_sql.txt]([https://github.com/smilingthrone13/basic_sql_training/blob/main/requests_sql.txt](https://github.com/smilingthrone13/praktikum_projects/blob/main/Basic%20SQL%20training/requests_sql.txt)) описаны задачи и для каждой из них приведен код
 соответствующего запроса к БД на языке SQL. Если задача состояла из нескольких подпунктов, приводится самый полный вариант постановки.
